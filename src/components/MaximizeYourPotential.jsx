@@ -17,7 +17,7 @@ return (
             with Strategic HR Solutions
         </h1>
         <div className="relative mb-6">
-            <img src="../../public/images/your_potential.svg" alt="Team discussion"
+            <img src="/images/your_potential.svg" alt="Team discussion"
                 className="rounded-lg shadow-md w-full object-cover" />
         </div>
     </div>

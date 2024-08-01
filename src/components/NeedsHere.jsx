@@ -3,7 +3,7 @@ import React from 'react';
 const NeedsHere = () => {
   return (
     <div className="flex flex-col lg:flex-row items-center gap-[100px] p-[100px] bg-cover bg-center relative"
-         style={{ backgroundImage: `url('../../public/images/bg-needs-here.svg')` }}>
+         style={{ backgroundImage: `url('/images/bg-needs-here.svg')` }}>
 
       <div className="w-full lg:w-1/2 flex flex-col items-start">
         <h1 className="text-3xl lg:text-6xl mb-6 mt-6 text-white [font-family:'Poly-Regular'] text-[40px] lg:text-[40px] font-normal">

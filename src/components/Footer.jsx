@@ -16,16 +16,16 @@ const Footer = () => {
               </p>
               <div className="flex mt-4 space-x-4">
                 <a href="#" className="text-gray-400 hover:text-white">
-                  <img src="../../public/images/linkedin-brands-solid.svg" alt="LinkedIn" className="w-6 h-6 " />
+                  <img src="/images/linkedin-brands-solid.svg" alt="LinkedIn" className="w-6 h-6 " />
                 </a>
                 <a href="#" className="text-gray-400 hover:text-white">
-                  <img src="../../public/images/instagram-brands-solid.svg" alt="Instagram" className="w-6 h-6 " />
+                  <img src="/images/instagram-brands-solid.svg" alt="Instagram" className="w-6 h-6 " />
                 </a>
                 <a href="#" className="text-gray-400 hover:text-white">
-                  <img src="../../public/images/x-twitter-brands-solid.svg" alt="Twitter" className="w-6 h-6 " />
+                  <img src="/images/x-twitter-brands-solid.svg" alt="Twitter" className="w-6 h-6 " />
                 </a>
                 <a href="#" className="text-gray-400 hover:text-white">
-                  <img src="../../public/images/facebook-brands-solid.svg" alt="Facebook" className="w-6 h-6 " />
+                  <img src="/images/facebook-brands-solid.svg" alt="Facebook" className="w-6 h-6 " />
                 </a>
               </div>
             </div>

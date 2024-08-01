@@ -2,7 +2,7 @@ import React from 'react'
 
 const Schedule = () => {
   return (
-    <div className="relative h-screen bg-cover bg-center" style={{ backgroundImage: `url(${'../../public/images/bg-schedule.svg'})` }}>
+    <div className="relative h-screen bg-cover bg-center" style={{ backgroundImage: `url(${'/images/bg-schedule.svg'})` }}>
     <div className="absolute inset-0"></div>
     <div className="relative flex flex-col items-center justify-center h-full text-white">
       <div className="text-center">
