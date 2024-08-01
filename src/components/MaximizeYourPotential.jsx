@@ -26,7 +26,7 @@ return (
     <div className="w-full lg:w-1/2 flex flex-col gap-8">
         <div className="flex items-start space-x-4">
             <div className="bg-gray-100 p-3 rounded-lg">
-                <img src="../../public/images/users.svg" alt="Expert Team Icon" className="w-6 h-6" />
+                <img src="/images/users.svg" alt="Expert Team Icon" className="w-6 h-6" />
             </div>
             <div>
                 <h3 className="text-lg font-semibold">Expert Team</h3>
@@ -37,7 +37,7 @@ return (
         </div>
         <div className="flex items-start space-x-4">
             <div className="bg-gray-100 p-3 rounded-lg">
-                <img src="../../public/images/hourglass.svg" alt="Time Saving Icon" className="w-6 h-6" />
+                <img src="/images/hourglass.svg" alt="Time Saving Icon" className="w-6 h-6" />
             </div>
             <div>
                 <h3 className="text-lg font-semibold">Time Saving</h3>
@@ -48,7 +48,7 @@ return (
         </div>
         <div className="flex items-start space-x-4">
             <div className="bg-gray-100 p-3 rounded-lg">
-                <img src="../../public/images/check.svg" alt="Quality Assurance Icon" className="w-8 h-6" />
+                <img src="/images/check.svg" alt="Quality Assurance Icon" className="w-8 h-6" />
             </div>
             <div>
                 <h3 className="text-lg font-semibold">Quality Assurance</h3>
@@ -59,7 +59,7 @@ return (
         </div>
         <div className="flex items-start space-x-4">
             <div className="bg-gray-100 p-3 rounded-lg">
-                <img src="../../public/images/people-happy.svg" alt="Client Priority Icon" className="w-8 h-6" />
+                <img src="/images/people-happy.svg" alt="Client Priority Icon" className="w-8 h-6" />
             </div>
             <div>
                 <h3 className="text-lg font-semibold">Client Priority</h3>
